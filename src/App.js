@@ -52,6 +52,7 @@ class App extends Component {
         <button className="btn btn-primary" onClick={this.handleAdd}>
           Add
         </button>
+
         <table className="table">
           <thead>
             <tr>
